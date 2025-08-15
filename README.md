@@ -58,6 +58,7 @@ The dataset used in this project was obtained from an online sample source and c
 
 ---
 
-> ✨ **Dashboard Preview**\\
+> ✨ **Dashboard Preview**  
+> ![Dashboard Screenshot](dashboard.png)
 
 ---
